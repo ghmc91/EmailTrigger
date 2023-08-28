@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EmailTrigger.Domain/1.0.0": {
+        "runtime": {
+          "EmailTrigger.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailTrigger.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

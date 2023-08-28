@@ -1,0 +1,12 @@
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\Infra.Framework.csproj.AssemblyReference.cache
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\Infra.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\Infra.Framework.AssemblyInfoInputs.cache
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\Infra.Framework.AssemblyInfo.cs
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\Infra.Framework.csproj.CoreCompileInputs.cache
+C:\Aut\EmailTrigger\Infra.Framework\bin\Debug\net6.0\Infra.Framework.deps.json
+C:\Aut\EmailTrigger\Infra.Framework\bin\Debug\net6.0\Infra.Framework.dll
+C:\Aut\EmailTrigger\Infra.Framework\bin\Debug\net6.0\Infra.Framework.pdb
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\Infra.Framework.dll
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\refint\Infra.Framework.dll
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\Infra.Framework.pdb
+C:\Aut\EmailTrigger\Infra.Framework\obj\Debug\net6.0\ref\Infra.Framework.dll

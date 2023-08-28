@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailTrigger.Domain", "EmailTrigger.Domain\EmailTrigger.Domain.csproj", "{E56FE10B-8603-4785-8E1F-9FD63DF005C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmailTrigger.Infra.Data", "EmailTrigger.Repository\EmailTrigger.Infra.Data.csproj", "{E8956AF2-0189-4E4C-8EB1-C704E66DEB99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra.Framework", "Infra.Framework\Infra.Framework.csproj", "{A65990E7-6997-4116-91EC-9C65396377DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailTrigger.Service", "EmailTrigger.Service\EmailTrigger.Service.csproj", "{4107A565-99DD-4944-9740-44DCA157A3D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailTrigger.Infra.IoC", "EmailTrigger.Infra.IoC\EmailTrigger.Infra.IoC.csproj", "{6B1BCF7B-373C-4AF0-8665-1B3F036C3E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmaillTrigger.Application", "EmaillTrigger.Application\EmaillTrigger.Application.csproj", "{3F01B441-005A-4F17-8390-0BAC2ED807FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56FE10B-8603-4785-8E1F-9FD63DF005C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56FE10B-8603-4785-8E1F-9FD63DF005C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56FE10B-8603-4785-8E1F-9FD63DF005C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56FE10B-8603-4785-8E1F-9FD63DF005C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8956AF2-0189-4E4C-8EB1-C704E66DEB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8956AF2-0189-4E4C-8EB1-C704E66DEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8956AF2-0189-4E4C-8EB1-C704E66DEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8956AF2-0189-4E4C-8EB1-C704E66DEB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65990E7-6997-4116-91EC-9C65396377DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65990E7-6997-4116-91EC-9C65396377DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65990E7-6997-4116-91EC-9C65396377DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65990E7-6997-4116-91EC-9C65396377DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4107A565-99DD-4944-9740-44DCA157A3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4107A565-99DD-4944-9740-44DCA157A3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4107A565-99DD-4944-9740-44DCA157A3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4107A565-99DD-4944-9740-44DCA157A3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B1BCF7B-373C-4AF0-8665-1B3F036C3E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B1BCF7B-373C-4AF0-8665-1B3F036C3E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B1BCF7B-373C-4AF0-8665-1B3F036C3E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B1BCF7B-373C-4AF0-8665-1B3F036C3E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F01B441-005A-4F17-8390-0BAC2ED807FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F01B441-005A-4F17-8390-0BAC2ED807FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F01B441-005A-4F17-8390-0BAC2ED807FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F01B441-005A-4F17-8390-0BAC2ED807FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C2AC1D-8FC2-498A-8E99-9191E4C650BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Aut\EmailTrigger\EmailTrigger.Domain\bin\Debug\net6.0\EmailTrigger.Domain.deps.json
+C:\Aut\EmailTrigger\EmailTrigger.Domain\bin\Debug\net6.0\EmailTrigger.Domain.dll
+C:\Aut\EmailTrigger\EmailTrigger.Domain\bin\Debug\net6.0\EmailTrigger.Domain.pdb
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\EmailTrigger.Domain.csproj.AssemblyReference.cache
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\EmailTrigger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\EmailTrigger.Domain.AssemblyInfoInputs.cache
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\EmailTrigger.Domain.AssemblyInfo.cs
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\EmailTrigger.Domain.csproj.CoreCompileInputs.cache
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\EmailTrigger.Domain.dll
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\refint\EmailTrigger.Domain.dll
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\EmailTrigger.Domain.pdb
+C:\Aut\EmailTrigger\EmailTrigger.Domain\obj\Debug\net6.0\ref\EmailTrigger.Domain.dll

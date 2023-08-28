@@ -1,0 +1,17 @@
+C:\Aut\EmailTrigger\EmailTrigger.Service\bin\Debug\net6.0\EmailTrigger.Service.deps.json
+C:\Aut\EmailTrigger\EmailTrigger.Service\bin\Debug\net6.0\EmailTrigger.Service.dll
+C:\Aut\EmailTrigger\EmailTrigger.Service\bin\Debug\net6.0\EmailTrigger.Service.pdb
+C:\Aut\EmailTrigger\EmailTrigger.Service\bin\Debug\net6.0\EmailTrigger.Domain.dll
+C:\Aut\EmailTrigger\EmailTrigger.Service\bin\Debug\net6.0\EmailTrigger.Domain.pdb
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.csproj.AssemblyReference.cache
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.AssemblyInfoInputs.cache
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.AssemblyInfo.cs
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.csproj.CoreCompileInputs.cache
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.csproj.CopyComplete
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.dll
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\refint\EmailTrigger.Service.dll
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\EmailTrigger.Service.pdb
+C:\Aut\EmailTrigger\EmailTrigger.Service\obj\Debug\net6.0\ref\EmailTrigger.Service.dll
+C:\Aut\EmailTrigger\EmailTrigger.Service\bin\Debug\net6.0\Infra.Framework.dll
+C:\Aut\EmailTrigger\EmailTrigger.Service\bin\Debug\net6.0\Infra.Framework.pdb
