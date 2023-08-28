@@ -26,9 +26,9 @@ namespace EmailTrigger.Service.Services
             var sellers = GetData();
             var subject = "Teste";
             var body = "Teste";
-            var to = new List<string>() { "gustavo_martins1991@hotmail.com" };
+            var to = new List<string>() { "email" };
             
-            _emailService.SendEmail("contato@uailivreart.com", "UaiLibre22!", subject, body, to.ToArray());
+            _emailService.SendEmail("user", "pwd", subject, body, to.ToArray());
         }
     }
 }
